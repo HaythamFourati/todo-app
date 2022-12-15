@@ -40,7 +40,7 @@ app.get('/', function(req, res){
       <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
     </head>
     <body>
-      <div class="container" style="display:flex; flex-direction:column; justify-content:center; align-items:center;">
+      <div class="container" style="display:flex; flex-direction:column; justify-content:center; align-items:center; background:red;">
         <h1 class="display-4 text-center py-1">To-Do App</h1>
         
         <div class="jumbotron p-3 shadow-sm">
